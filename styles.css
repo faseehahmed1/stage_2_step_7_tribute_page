@@ -1,0 +1,60 @@
+.parent{
+    font-family: Arial, sans-serif;
+     background-color:#D3D3D3;
+     text-align: center;
+     margin: 3px 1px;
+     width:auto;
+  }
+  body {
+      margin: auto;
+  }
+  h1 {
+    text-align: center;
+    padding-top: 20px;
+    
+   
+  }
+  
+  ul.centrelist {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  li {
+    padding:0px 0px 20px 0px;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  div.size{
+    font-size: 20px;
+  }
+  
+  .gallery img {
+    
+    max-width: 100%;
+    display:block;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .c {
+    width: 900px;
+    height: 590px;
+    background-color:white;
+    margin:auto;
+  }
+  .square {
+    width: auto;
+    height: 590px;
+    background-color:white;
+    margin:auto;
+  }
